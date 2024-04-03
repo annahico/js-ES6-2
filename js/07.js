@@ -5,7 +5,7 @@ let edad = 30
 let ciudad = "Barcelona"
 
 
-// let user = {
+// let usuario = {
 //     nombre: nombre,
 //     edad: edad,
 //     ciudad: ciudad,
